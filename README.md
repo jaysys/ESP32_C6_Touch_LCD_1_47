@@ -1,3 +1,9 @@
+
+# 참조 사이트 
+
+https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.47/Resources-And-Documents
+
+
 ## 🌐 View Demo
 
 👉 https://andreimagic.github.io/ESP32_C6_Touch_LCD_1_47_LVGL_Animated_Clock/
