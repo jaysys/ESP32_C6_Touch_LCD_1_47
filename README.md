@@ -7,3 +7,7 @@ https://www.waveshare.com/esp32-c6-touch-lcd-1.47.htm?sku=31201
 https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.47/Development-Environment-Setup-Arduino
 
 https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.47/Resources-And-Documents
+
+lvgl v9 기반입니다.
+
+
